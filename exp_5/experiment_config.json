@@ -1,0 +1,14 @@
+{
+  "dataset": "PlantVillage",
+  "number_of_classes": 38,
+  "image_size": [
+    224,
+    224
+  ],
+  "batch_size": 32,
+  "split": "80% training, 10% validation, 10% test",
+  "models": [
+    "Custom CNN",
+    "MobileNetV2"
+  ]
+}
